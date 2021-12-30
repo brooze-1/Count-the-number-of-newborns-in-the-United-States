@@ -1,0 +1,2 @@
+# 查看一张表中有多少条记录
+select count(*) from data;
